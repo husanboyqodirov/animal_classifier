@@ -1,2 +1,2 @@
 # animal_classifier
-Artificial Intelligence
+![GitHub Logo](/screenshot.png)
